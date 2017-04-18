@@ -1,0 +1,20 @@
+{
+  "name": "rollup-ts-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "bundle:watch": "rollup -c --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "rollup": "^0.41.6",
+    "rollup-plugin-commonjs": "^8.0.2",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-typescript": "^0.8.1",
+    "rollup-watch": "^3.2.2",
+    "typescript": "^2.2.2"
+  }
+}
